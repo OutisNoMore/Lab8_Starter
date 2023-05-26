@@ -7,7 +7,7 @@
     "jest-puppeteer": "^9.0.0",
     "puppeteer": "^20.4.0"
   },
-  "scripts":{
+  "scripts": {
     "test": "jest"
   },
   "jest": {
